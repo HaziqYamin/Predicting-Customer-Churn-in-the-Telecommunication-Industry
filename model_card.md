@@ -10,7 +10,7 @@
 
 ## Model Performance/ Model Evaluation
 
-The performance of the model was evaluated on the "Telco Customer Churn" dataset using several evaluation metrics including accuracy, precision, recall, and F1 score. The model achieved an accuracy of 80.05% which is the highest achieved by the Voting Classifier. The precision of the model was found to be 79.04%, and the recall was 80.05%, resulting in an F1 score of 79.25%. These metrics suggest that the model is effective in predicting customer churn, and it could aid in developing targeted retention strategies. Overall, the model shows promise in identifying customers who are likely to churn and has the potential to assist in reducing the churn rate and improving customer retention in the telecommunications industry.
+The performance of the model was evaluated on the "Telco Customer Churn" dataset using several evaluation metrics including accuracy, precision, recall, and F1 score. The model achieved an accuracy of 80.14% which is the highest achieved by the Voting Classifier. The precision of the model was found to be 79.15%, and the recall was 80.14%, resulting in an F1 score of 79.35%. These metrics suggest that the model is effective in predicting customer churn, and it could aid in developing targeted retention strategies. Overall, the model shows promise in identifying customers who are likely to churn and has the potential to assist in reducing the churn rate and improving customer retention in the telecommunications industry.
 
 ## Limitations
 
